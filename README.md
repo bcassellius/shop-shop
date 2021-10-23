@@ -13,6 +13,7 @@
 ## Description
 online retail app
 
+![image](https://user-images.githubusercontent.com/83994997/138536650-8269e248-4d8d-4299-8a71-c3d48e418810.png)
 
 
 <a name='installation'></a>
